@@ -13,9 +13,9 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 #  AYARLAR — buradan kolayca düzenleyebilirsin
 # ═══════════════════════════════════════════════════════════════════════════════
 
-LOG_CHANNEL_ID     = 1526341115039449178  # ← Log kanalının ID'si
+LOG_CHANNEL_ID     = 1529951018916249662  # ← Log kanalının ID'si
 HEDEF_OYUN_ID      = 77807741669217       # Yalnızca bu oyunda mesai sayılır
-HAFTALIK_KOTA_SAATI = 5                   # Haftalık hedef (saat)
+HAFTALIK_KOTA_SAATI = 7                   # Haftalık hedef (saat)
 
 KAYIT_DOSYASI  = "kayitlar.json"          # Discord ID <-> Roblox bilgileri
 KONTROL_SURESI = 5                        # Kaç saniyede bir varlık kontrolü
